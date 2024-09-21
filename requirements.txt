@@ -1,0 +1,7 @@
+gradio
+pandas
+seaborn
+matplotlib
+vaderSentiment
+textblob
+gunicorn
